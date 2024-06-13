@@ -28,8 +28,9 @@ Hey there! I'm देव कुमार नायक , and I'm thrilled to have
 
 ## 🚀 Projects and Repositories
 
-Here's a sneak peek into some of my favorite projects:
-### 🌟 House Price Prediction using XGBoost
+Here's a sneak peek into some of my favorite Repositories:
+### [Dev's Marvelous ML Menagrie](https://github.com/devnayak007/Dev-s-Marvelous-ML-Menagerie)
+🌟 House Price Prediction using XGBoost
 
 **Description**: This project aims to predict house prices using the XGBoost algorithm, a powerful gradient boosting framework. By leveraging features such as location, square footage, number of bedrooms, and more, the model provides accurate price estimates for properties. The project demonstrates the application of machine learning techniques to real-world data, showcasing the effectiveness of XGBoost in regression tasks.
 
