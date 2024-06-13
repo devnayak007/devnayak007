@@ -29,18 +29,16 @@ Hey there! I'm देव कुमार नायक , and I'm thrilled to have
 ## 🚀 Projects and Repositories
 
 Here's a sneak peek into some of my favorite Repositories:
-### [Dev's Marvelous ML Menagrie](https://github.com/devnayak007/Dev-s-Marvelous-ML-Menagerie)
-🌟 House Price Prediction using XGBoost
+## Dev's Marvelous ML Menagrie:
+Welcome, brave explorer, to Dev's Marvelous ML Menagerie! This is not just any repository; it's a wonderland where machine learning dreams come to life. Dive in and witness the magic unfold as we journey from basic ML algorithms to jaw-dropping predictions. Buckle up, because it's going to be a wild ride! 🚀✨
 
-**Description**: This project aims to predict house prices using the XGBoost algorithm, a powerful gradient boosting framework. By leveraging features such as location, square footage, number of bedrooms, and more, the model provides accurate price estimates for properties. The project demonstrates the application of machine learning techniques to real-world data, showcasing the effectiveness of XGBoost in regression tasks.
-
-**Technologies**: Python, XGBoost, Pandas, Scikit-Learn, Matplotlib
-
-[[**House_Prediction_Model**](https://github.com/devnayak007/ML_projects/blob/main/House_Prediction.ipynb)]
-
----
-
-Feel free to adjust the description to match any additional details specific to your project.
++ [House Price Prediction](https://github.com/devnayak007/Dev-s-Marvelous-ML-Menagerie/blob/main/House_Prediction.ipynb)
+* [Loan Status Prediction](https://github.com/devnayak007/Dev-s-Marvelous-ML-Menagerie/blob/main/Loan_status_Prediction.ipynb)
+* [Customer Segmentation](https://github.com/devnayak007/Dev-s-Marvelous-ML-Menagerie/blob/main/Customer_segmentation_using_K_Means_Clustering.ipynb)
+* [Hierachial Clustering](https://github.com/devnayak007/Dev-s-Marvelous-ML-Menagerie/blob/main/Hierachial_Clustering.ipynb)
+* [K-Nearest Neighbour](https://github.com/devnayak007/Dev-s-Marvelous-ML-Menagerie/blob/main/KNN_Classification.ipynb)
+* [Rock vs Mine Prediction](https://github.com/devnayak007/Dev-s-Marvelous-ML-Menagerie/blob/main/Rock_vs_Mine_Prediction.ipynb)
+* [Decision Tree](https://github.com/devnayak007/Dev-s-Marvelous-ML-Menagerie/blob/main/Decision_Tree_Implementation.ipynb)
 
 ## 🌈 Let's Connect!
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devnayak007&label=Profile%20views&color=0e75b6&style=flat" alt="devnayak007" /> </p>
